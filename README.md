@@ -1,7 +1,7 @@
 
-#Calculator Project Using Python
+# Calculator Project Using Python
 
-##This is a simple calculator with basic functions, including add, subtract, multiply, etc.
+## This is a simple calculator with basic functions, including add, subtract, multiply, etc.
 
 ### How to run this file:
 - Clone this repo
